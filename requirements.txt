@@ -1,0 +1,8 @@
+jupyterlab
+ipywidgets
+tqdm
+torch
+torchvision
+pytesseract
+transformers
+
